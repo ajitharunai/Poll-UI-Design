@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajitharunai" alt="ajitharunai" /></a> </p>
 
-- 🔭 I’m currently working on [Poll UI Design | Aji Creations ](poll-ui-design-bopltecrw-ajitharunai.vercel.app)
+- 🔭 I’m currently working on [Poll UI Design | Aji Creations ](https://poll-ui-design-j50ibrvks-ajitharunai.vercel.app/)
 
 - 🌱 I’m currently learning **Machine Learning | Deep Learning | React Js | Portfolio**
 
